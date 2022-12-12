@@ -48,3 +48,24 @@ print(names[0:3]) # This will return the zeroth, first, and second item BUT NOT 
 names[4] = "Ethan" # the correct spelling will replace the current item.
 print(names)
 
+#-------------------
+# For Loops
+#-------------------
+
+# start with a set of values
+numbers = [1,2,3,4,5]
+
+# for each item in numbers, print the itme:
+for item in numbers:
+    print(item)
+# The same can be done using a while loop
+i=0
+while i< len(numbers): # "len()" refers to the length of the list.
+    print(numbers[i])
+    i = i+1
+# terminate the loop
+
+#-----------------------
+# ENd of lesson
+#-----------------------
+
