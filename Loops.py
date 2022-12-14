@@ -66,6 +66,6 @@ while i< len(numbers): # "len()" refers to the length of the list.
 # terminate the loop
 
 #-----------------------
-# ENd of lesson
+# End of lesson
 #-----------------------
 

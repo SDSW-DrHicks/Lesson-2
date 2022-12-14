@@ -24,7 +24,7 @@ print(x)
 
 # Augmented Assignment Operator: a way to more quickly assign calculations
 x = 2
-x += 5 # is identical to "x = x + 5" from above. Try using -=, *=, and /=.
+x += 5  # is identical to "x = x + 5" from above. Try using -=, *=, and /=.
 print(x)
 
 # Note that Python operates arithmetically according to the same order of operations in traditional mathematical operation.
@@ -38,7 +38,7 @@ z = y**2 + (5+x) + 1 - pi
 print(z)
 
 # ---
-# Operations
+# Operations  # Pick-up
 # ---
 del x # to delete the value assignment to x previously
 

@@ -9,7 +9,7 @@ course = "Intro to Programming"
 # index-> 01234
 # Strings, and characters within strings have an index number which could be used
 # to identify segments or parts of the string. In the case above, "Intro..." is indexed with a number for each
-# character, beginning with 0. So, "I" is 0, "n" is 1, "t" is 2... and so forht.
+# character, beginning with 0. So, "I" is 0, "n" is 1, "t" is 2... and so forth.
 
 
 # Use this line to print the uppercase "self" of the variable "course."
