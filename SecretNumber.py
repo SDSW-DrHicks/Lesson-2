@@ -1,5 +1,5 @@
 # ------------------------------------------------------
-# Exercise #1: Guess the Secret Number
+# Exercise #2: Guess the Secret Number
 #-------------------------------------------------------
 
 # Goal write a code which will prompt a guess from the user.
